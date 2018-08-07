@@ -82,11 +82,11 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 - arxiv: <http://arxiv.org/abs/1506.01497>
 - gitxiv: <http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region>
 - slides: <http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf>
-- github(official, Matlab): <https://github.com/ShaoqingRen/faster_rcnn>
+- github(official, Matlab): <https://github.com/ShaoqingRen/faster_rcnn>  Voc2012 mAp:70.4% 
 - github(Caffe): <https://github.com/rbgirshick/py-faster-rcnn>
 - github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn>
-- github(PyTorch--recommend): <https://github.com//jwyang/faster-rcnn.pytorch>
-- github: <https://github.com/mitmul/chainer-faster-rcnn>
+- github(PyTorch--recommend): <https://github.com//jwyang/faster-rcnn.pytorch> coco mAP:37.0%
+- github: <https://github.com/mitmul/chainer-faster-rcnn> 
 - github(Torch):: <https://github.com/andreaskoepf/faster-rcnn.torch>
 - github(Torch):: <https://github.com/ruotianluo/Faster-RCNN-Densecap-torch>
 - github(TensorFlow): <https://github.com/smallcorgi/Faster-RCNN_TF>
@@ -95,6 +95,9 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 - github(Keras): <https://github.com/yhenon/keras-frcnn>
 - github: <https://github.com/Eniac-Xie/faster-rcnn-resnet>
 - github(C++): <https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev>
+- github(Caffe2): <https://github.com/facebookresearch/Detectron>  coco2014 mAP:40.6%
+- github(TensorFlow): <https://github.com/tensorflow/models/blob/master/research/object_detection> coco2014 mAP:37%
+- github(tensorpack): <https://github.com/tensorpack/tensorpack> coco2014 mAP:41.7%
 
 **R-CNN minus R**
 
